@@ -12,7 +12,7 @@ Welcome to my creative coding project! This is a pure **HTML + CSS** rendering o
 ## 🚀 Live Demo
 
 You can view the live version here (optional):  
-[[🔗 Live Demo]((https://codepen.io/FathimaAzha/pen/wvQjzLL))]
+https://codepen.io/FathimaAzha/pen/wvQjzLL
 
 ## 🛠️ Technologies Used
 
