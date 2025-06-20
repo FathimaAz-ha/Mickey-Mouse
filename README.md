@@ -4,8 +4,10 @@ Welcome to my creative coding project! This is a pure **HTML + CSS** rendering o
 
 ## 🎨 Preview
 
-![Mickey Mouse Screenshot](preview.png)  
-*You can add your own screenshot image and name it `preview.png`*
+![output_priview](https://github.com/user-attachments/assets/b4a9b8a7-08f4-4c95-ba12-da5052922112)
+
+## inspired By
+![mickey](https://github.com/user-attachments/assets/c70f655b-d115-4b74-846c-b3f85f264348)
 
 ## 🚀 Live Demo
 
